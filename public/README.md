@@ -1,4 +1,7 @@
-# Main Phaser Game Directory
+#
+Main Phaser Game Directory
+
+Test
 
 This is where we put everything that will end up in the game:
 
